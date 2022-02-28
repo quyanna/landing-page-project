@@ -178,7 +178,20 @@ a {
 
 }
 
-.action-btn{
+.action-btn {
     border: 2px solid #f9faf8;
     margin: 0;
+}
+
+.section5 {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright {
+    word-spacing: 8px;
+    margin: 0;
+    padding: 30px;
+    color: #f9faf8;
 }
